@@ -4,6 +4,7 @@
 #include "add_two_number.h"
 #include "remove_duplicates_from_sorted_array.h"
 #include "merge_intervals.h"
+#include "spiral_matrix_ii.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -12,6 +13,9 @@ int main() {
 //    remove_duplicates_from_sorted_array().test();
 
 
-    merge_intervals().test();
+//    merge_intervals().test();
+    spiral_matrix_ii().test();
+
+
     return 0;
 }
