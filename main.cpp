@@ -5,6 +5,7 @@
 #include "remove_duplicates_from_sorted_array.h"
 #include "merge_intervals.h"
 #include "spiral_matrix_ii.h"
+#include "unique_paths.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -14,8 +15,8 @@ int main() {
 
 
 //    merge_intervals().test();
-    spiral_matrix_ii().test();
-
+//    spiral_matrix_ii().test();
+    unique_paths().test();
 
     return 0;
 }
