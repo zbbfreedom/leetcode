@@ -8,6 +8,7 @@
 #include "unique_paths.h"
 #include "unique_paths_ii.h"
 #include "minimum_path_sum.h"
+#include "set_matrix_zeroes.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -20,7 +21,7 @@ int main() {
 //    spiral_matrix_ii().test();
 //    unique_paths_ii().test();
 
-    minimum_path_sum().test();
-
+//    minimum_path_sum().test();
+    set_matrix_zeroes().test();
     return 0;
 }
