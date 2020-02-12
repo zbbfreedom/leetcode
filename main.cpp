@@ -6,6 +6,8 @@
 #include "merge_intervals.h"
 #include "spiral_matrix_ii.h"
 #include "unique_paths.h"
+#include "unique_paths_ii.h"
+#include "minimum_path_sum.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -16,7 +18,9 @@ int main() {
 
 //    merge_intervals().test();
 //    spiral_matrix_ii().test();
-    unique_paths().test();
+//    unique_paths_ii().test();
+
+    minimum_path_sum().test();
 
     return 0;
 }
