@@ -9,6 +9,7 @@
 #include "unique_paths_ii.h"
 #include "minimum_path_sum.h"
 #include "set_matrix_zeroes.h"
+#include "search_a_2d_matrix.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -22,6 +23,7 @@ int main() {
 //    unique_paths_ii().test();
 
 //    minimum_path_sum().test();
-    set_matrix_zeroes().test();
+//    set_matrix_zeroes().test();
+    search_a_2d_matrix().test();
     return 0;
 }
