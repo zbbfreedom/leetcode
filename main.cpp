@@ -11,6 +11,7 @@
 #include "set_matrix_zeroes.h"
 #include "search_a_2d_matrix.h"
 #include "minimum_increment_to_make_array_unique.h"
+#include "the_masseuse_lcci.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -26,6 +27,7 @@ int main() {
 //    minimum_path_sum().test();
 //    set_matrix_zeroes().test();
 //    search_a_2d_matrix().test();
-    minimum_increment_to_make_array_unique().test();
+//    minimum_increment_to_make_array_unique().test();
+    the_masseuse_lcci().test();
     return 0;
 }
