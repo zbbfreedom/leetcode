@@ -12,6 +12,7 @@
 #include "search_a_2d_matrix.h"
 #include "minimum_increment_to_make_array_unique.h"
 #include "the_masseuse_lcci.h"
+#include "surface_area_of_3d_shapes.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -28,6 +29,7 @@ int main() {
 //    set_matrix_zeroes().test();
 //    search_a_2d_matrix().test();
 //    minimum_increment_to_make_array_unique().test();
-    the_masseuse_lcci().test();
+//    the_masseuse_lcci().test();
+    surface_area_of_3d_shapes().test();
     return 0;
 }
