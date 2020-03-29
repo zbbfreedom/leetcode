@@ -14,6 +14,7 @@
 #include "the_masseuse_lcci.h"
 #include "surface_area_of_3d_shapes.h"
 #include "x_of_a_kind_in_a_deck_of_cards.h"
+#include "subsets.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -33,5 +34,6 @@ int main() {
 //    the_masseuse_lcci().test();
 //    surface_area_of_3d_shapes().test();
 //    x_of_a_kind_in_a_deck_of_cards().test();
+    subsets().test();
     return 0;
 }
